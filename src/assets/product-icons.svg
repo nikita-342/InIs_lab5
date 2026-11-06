@@ -1,0 +1,15 @@
+<svg width="600" height="380" viewBox="0 0 600 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ebe9ff"/>
+      <stop offset="1" stop-color="#d4d0f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="18" fill="url(#bg2)"/>
+  <text x="48" y="72" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#17181C">Icon Pack</text>
+  <text x="300" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#17181C">800+ Icons</text>
+  <circle cx="180" cy="250" r="28" fill="#635BFF"/>
+  <circle cx="300" cy="250" r="28" fill="#ffffff"/>
+  <circle cx="420" cy="250" r="28" fill="#17181C"/>
+  <rect x="160" y="300" width="280" height="14" rx="7" fill="#ffffff" opacity=".7"/>
+</svg>

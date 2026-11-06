@@ -1,0 +1,41 @@
+.selector {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 104px;
+  height: 40px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  border: 1px solid #e2e5eb;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #1a1b1f;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.control:disabled {
+  color: #c0c3ca;
+  cursor: default;
+}
+
+.value {
+  min-width: 20px;
+  text-align: center;
+  color: #1a1b1f;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
